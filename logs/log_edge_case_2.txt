@@ -1,0 +1,6 @@
+[2026-03-19 12:00:00] INFO: Server started
+2026/03/19 12:01:00 - WARNING - High latency
+ERROR|Disk failure detected
+<INFO> Service restarted
+Warn: This might be an issue
+Err: Something broke

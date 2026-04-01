@@ -1,0 +1,5 @@
+Error: API timeout
+INFO Server started
+INFO User login
+WARNING Disk usage high
+ERROR Database connection failed

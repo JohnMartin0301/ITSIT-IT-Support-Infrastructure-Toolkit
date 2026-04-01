@@ -1,0 +1,6 @@
+2026-03-19 11:00:00 INFO System health check initiated
+2026-03-19 11:00:01 INFO CPU usage: 85%
+2026-03-19 11:00:02 WARNING Memory usage high: 78%
+2026-03-19 11:00:03 ERROR Disk space critically low: 96%
+2026-03-19 11:00:04 ERROR Unable to write logs to disk
+2026-03-19 11:00:05 INFO Alert sent to administrator

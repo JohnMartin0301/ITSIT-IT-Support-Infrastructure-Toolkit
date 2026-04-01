@@ -1,0 +1,3 @@
+INFO Application started
+INFO User logged in
+INFO Data loaded successfully

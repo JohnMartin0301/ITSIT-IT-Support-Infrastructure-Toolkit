@@ -1,0 +1,5 @@
+info Application started
+Warning Possible issue detected
+ERROR Critical failure occurred
+error another failure
+INFO Proper info log
