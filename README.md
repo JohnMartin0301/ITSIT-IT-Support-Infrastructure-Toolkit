@@ -32,6 +32,22 @@ This tool simulates real-world tasks performed by **Application and Cloud Suppor
 
 ---
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](assets/screenshots/menu.png)
+
+### Website Uptime Check
+![Website Check](assets/screenshots/check_website_uptime.png)
+
+### System Health Check
+![System Health](assets/screenshots/check_system_health.png)
+
+### Log Analyzer
+![Log Analyzer](assets/screenshots/analyze_logs.png)
+
+---
+
 ## 🖥️ Requirements
 
 - Python 3.7 or higher
