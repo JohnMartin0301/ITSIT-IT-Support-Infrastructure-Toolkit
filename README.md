@@ -235,5 +235,4 @@ Built as a personal project to simulate real-world IT support workflows.
 ---
 
 ## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+Copyright (c) 2026 John Martin. All Rights Reserved.
